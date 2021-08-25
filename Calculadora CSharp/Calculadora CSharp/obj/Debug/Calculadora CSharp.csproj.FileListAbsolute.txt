@@ -1,0 +1,17 @@
+C:\Users\bruno\source\repos\Calculadora CSharp\Calculadora CSharp\obj\Debug\Calculadora CSharp.csproj.AssemblyReference.cache
+C:\Users\bruno\source\repos\Calculadora CSharp\Calculadora CSharp\obj\Debug\Calculadora_CSharp.Interface.resources
+C:\Users\bruno\source\repos\Calculadora CSharp\Calculadora CSharp\obj\Debug\Calculadora_CSharp.Properties.Resources.resources
+C:\Users\bruno\source\repos\Calculadora CSharp\Calculadora CSharp\obj\Debug\Calculadora CSharp.csproj.GenerateResource.cache
+C:\Users\bruno\source\repos\Calculadora CSharp\Calculadora CSharp\obj\Debug\Calculadora CSharp.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\Calculadora CSharp\Calculadora CSharp\obj\Debug\Calculadora_CSharp.Interface.pt-BR.resources
+C:\Users\bruno\source\repos\Calculadora CSharp\Calculadora CSharp\bin\Debug\Calculadora C#.exe.config
+C:\Users\bruno\source\repos\Calculadora CSharp\Calculadora CSharp\bin\Debug\Calculadora C#.exe.manifest
+C:\Users\bruno\source\repos\Calculadora CSharp\Calculadora CSharp\bin\Debug\Calculadora C#.application
+C:\Users\bruno\source\repos\Calculadora CSharp\Calculadora CSharp\bin\Debug\Calculadora C#.exe
+C:\Users\bruno\source\repos\Calculadora CSharp\Calculadora CSharp\bin\Debug\Calculadora C#.pdb
+C:\Users\bruno\source\repos\Calculadora CSharp\Calculadora CSharp\bin\Debug\pt-BR\Calculadora C#.resources.dll
+C:\Users\bruno\source\repos\Calculadora CSharp\Calculadora CSharp\obj\Debug\pt-BR\Calculadora C#.resources.dll
+C:\Users\bruno\source\repos\Calculadora CSharp\Calculadora CSharp\obj\Debug\Calculadora C#.exe.manifest
+C:\Users\bruno\source\repos\Calculadora CSharp\Calculadora CSharp\obj\Debug\Calculadora C#.application
+C:\Users\bruno\source\repos\Calculadora CSharp\Calculadora CSharp\obj\Debug\Calculadora C#.exe
+C:\Users\bruno\source\repos\Calculadora CSharp\Calculadora CSharp\obj\Debug\Calculadora C#.pdb
